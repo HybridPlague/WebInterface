@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<pages>
+	<page>
+		<name>Homepage</name>
+		<file>homepage</file>
+		<extension>htm</extension>
+	</page>
+	
+	<page>
+		<name>About</name>
+		<file>about</file>
+		<extension>htm</extension>
+	</page>
+	
+	<page>
+		<name>Server Status</name>
+		<file>server-status</file>
+		<extension>php</extension>
+	</page>
+	
+	<page>
+		<name>Help Fly The Birds</name>
+		<file>help-fly-the-birds</file>
+		<extension>php</extension>
+	</page>
+	
+	<page>
+		<name>Fly With Us</name>
+		<file>fly-with-us</file>
+		<extension>php</extension>
+	</page>
+	
+	<page>
+		<name>Guestbook</name>
+		<file>guestbook</file>
+		<extension>php</extension>
+	</page>
+
+	<page>
+		<name>Online Help</name>
+		<file>helper</file>
+		<extension>html</extension>
+	</page>
+	
+	<page>
+		<name>Donators</name>
+		<file>donators</file>
+		<extension>php</extension>
+	</page>		
+
+	<page>
+		<name>Admin</name>
+		<file>admin</file>
+		<extension>php</extension>
+	</page>
+</pages>
